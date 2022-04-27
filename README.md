@@ -1,11 +1,11 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Osama Khaled</h1>
+<h1 align="center">‹, I'm Osama Khaled</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- ðŸŒ± Iâ€™m currently learning **Computer Science and Software Engineering.**
+- Im currently learning **Computer Science and Software Engineering.**
 
-- ðŸ“« How to reach me **osamakhalid797@gmail.com**
+How to reach me **osamakhalid797@gmail.com**
 
-- ðŸ“„ Know about my experiences [https://drive.google.com/file/d/1JSmiEWKx2oEIZq-SXqOnruXAubDi44uq/view?usp=sharing](https://drive.google.com/file/d/1JSmiEWKx2oEIZq-SXqOnruXAubDi44uq/view?usp=sharing)
+Know about my experiences [https://drive.google.com/file/d/1JSmiEWKx2oEIZq-SXqOnruXAubDi44uq/view?usp=sharing](https://drive.google.com/file/d/1JSmiEWKx2oEIZq-SXqOnruXAubDi44uq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
