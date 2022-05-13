@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Osama Khaled</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about **HTML,CSS, JavaScript, React**
+- 💬 Ask me about **HTML,CSS, JavaScript, React, SASS, Bootstrap**
 
 - 📫 How to reach me **osamakhalid797@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MjqzeKg-MDXEDUPiFhv8tVtXrNO7V2U5/view?usp=sharing](https://drive.google.com/file/d/1MjqzeKg-MDXEDUPiFhv8tVtXrNO7V2U5/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zziaSkfxyydwHiRSClP1e-Qptmi0iLoy/view?usp=sharing](https://drive.google.com/file/d/1MjqzeKg-MDXEDUPiFhv8tVtXrNO7V2U5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
