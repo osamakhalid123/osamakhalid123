@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osama Khaled</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 💬 Ask me about **HTML,CSS, JavaScript, React, SASS, Bootstrap**
+- 💬 Ask me about **HTML,CSS, JavaScript, React, SASS,Tailwind,Redux,Redux Toolkit, Bootstrap**
 
 - 📫 How to reach me **osamakhalid797@gmail.com**
 
