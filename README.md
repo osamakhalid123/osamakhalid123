@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **osamakhalid797@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zziaSkfxyydwHiRSClP1e-Qptmi0iLoy/view?usp=sharing](https://drive.google.com/file/d/1MjqzeKg-MDXEDUPiFhv8tVtXrNO7V2U5/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
